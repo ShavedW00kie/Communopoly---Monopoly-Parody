@@ -1,4 +1,4 @@
-# Project Name
+# Communopoly
 
 Brief description of what this application does.
 
